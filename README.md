@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @AmirMcG11.
-- 👀 I'm interested in Flutter and React Native.
+- 👀 I'm interested in Flutter and React Native and Kotlin.
 - 🌱 I'm currently learning Flutter.
 - 💞️ I'm looking to collaborate on cross-platform mobile development projects.
 - 📫 How to reach me: {
